@@ -55,7 +55,7 @@
 
 Работа выполняется в одной «Рабочей таблице», в которой есть отдельные листы на каждый этап.
 
-**[Отчет о проделанной работе](Part.I.Web/Sprint.II/Web_Sprint_II_print_preview_ver.pdf "Можно скачать в формате XLSX - Part.I.Web/Sprint.II/Working_Table_rev3.xlsx =)")**
+**[Отчет о проделанной работе](https://github.com/Aleksey6407/Yandex.Practicum/blob/main/Sprint.II/Рабочая%20таблица%20Удод%20Алексей%20125_48.xlsx)**
 
 ## Спринт 3. Тестирование UI
 
