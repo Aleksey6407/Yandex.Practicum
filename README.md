@@ -69,7 +69,7 @@
 составить тестовую документацию, выполнить проверки, завести баг-репорты, подготовить отчет.
 
 - [макеты](https://www.figma.com/design/42mNwme0cBfZwNZUIcN1mh/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D1%8B?node-id=125-61575&t=FP1KyMyAONurrNr1-1)
-- [требования](Part.I.Web/Sprint.III/Specs.pdf)
+- [требования](https://github.com/Aleksey6407/Yandex.Practicum/blob/main/Sprint.III/Specs.pdf)
 
 **1. Подготовь чек-лист на вёрстку полей 📋**
 
@@ -125,7 +125,7 @@
 
 - [текущая версия приложения](https://code.s3.yandex.net/qa/files/yandexmetro-android-v2.13.apk "YandexMetro-v2.13.apk"), которую пользователи скачивают из стора
 - [готовящаяся сборка](https://code.s3.yandex.net/qa/files/yandexmetro-android-v3.6.apk "YandexMetro-v3.6.apk")
-- [требования к Яндекс Метро](Part.II.Mobile/Sprint.IIII/Specs_Yandex_metro.pdf)
+- [требования к Яндекс Метро](https://github.com/Aleksey6407/Yandex.Practicum/blob/main/Sprint.IIII/Specs_Yandex_metro.pdf)
 
 **1. Подготовка к функциональному тестированию 👀**
 
@@ -153,9 +153,9 @@
 
 
 
-**[Отчет о проделанной работе](Part.II.Mobile/Sprint.IIII/Отчет_4-ый_спринт_(рев.2).pdf "Great n Awful! It's getting better, but not quite yet!")**
+**[Отчет о проделанной работе](https://github.com/Aleksey6407/Yandex.Practicum/blob/main/Sprint.IIII/Отчёт%20Удод%20Алексей%2048-125-я%20когорта%20—%204-й%20спринт.pdf)**
 
-**[Рабочая таблица](Part.II.Mobile/Sprint.IIII/Mobile_Sprint_IIII_print_preview_ver.pdf "Можно скачать в формате XLSX - Part.II.Mobile/Sprint.IIII/Рабочая_таблица_4-й_спринт_ревизия2.xlsx =)")**
+**[Рабочая таблица](https://github.com/Aleksey6407/Yandex.Practicum/blob/main/Sprint.IIII/Рабочая%20таблица%20Удод%20Алексей%2048_125%2C%204-й%20спринт.pdf)**
 
 ------------------------------------------------------------
 
@@ -169,9 +169,9 @@
 
 **🎛️ Изучи новую функциональность**
 
-[Требования к бэкенду приложения](Part.III.API/Sprint.V/Specs/backend_requirements.pdf)
+[Требования к бэкенду приложения](https://github.com/Aleksey6407/Yandex.Practicum/blob/main/Sprint.V/Specs/backend_requirements.pdf)
 
-[Требования к расчёту доставки курьерскими службами](Part.III.API/Sprint.V/Specs/delivery_requirements.pdf)
+[Требования к расчёту доставки курьерскими службами](https://github.com/Aleksey6407/Yandex.Practicum/blob/main/Sprint.V/Specs/delivery_requirements.pdf)
 
 Работа с наборами: 
 - возможность добавлять продукты в набор — ручка `POST /api/v1/kits/{id}/products`
@@ -193,8 +193,7 @@
 
 
 
-**[Отчет о проделанной работе](Part.III.API/Sprint.V/Отчет_5-ый_спринт_(рев.2).pdf "Great n Awful! It's getting better, but not quite yet!")**
+**[Отчет о проделанной работе](https://github.com/Aleksey6407/Yandex.Practicum/blob/main/Sprint.V/Отчёт%20Удод%20Алексей%2C%20125_48-я%20когорта%20—%205-й%20спринт.pdf)**
 
-**[Рабочая таблица](Part.III.API/Sprint.V/API_Sprint_V_print_preview_ver.pdf "Можно скачать в формате XLSX - Part.III.API/Sprint.V/Рабочая_таблица_5-й_спринт_ревизия2.xlsx =)")**
+**[Рабочая таблица](https://github.com/Aleksey6407/Yandex.Practicum/blob/main/Sprint.V/Рабочая%20таблица%20Удод%20Алексей%20125_48%20—%205-й%20спринт.pdf)**
 
-**[PostMan Workspace](https://www.postman.com/dbereiter/workspace/yandex-prilavok "Great n Awful! It's getting better, but not quite yet!")**
